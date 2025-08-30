@@ -350,7 +350,7 @@ Top must follow newsletters for data engineering:
 - [DataTeams - Data Engingeer hiring platform](https://www.datateams.ai/)
 - [Udemy Courses from Daniel Blanco](https://danielblanco.dev/links)
 
-### Certifications Courses
+### Certifications Courses extended
 
 - [Google Cloud Certified - Professional Data Engineer](https://cloud.google.com/certification/data-engineer)
 - [Databricks - Certified Associate Developer for Apache Spark](https://www.databricks.com/learn/certification/apache-spark-developer-associate)
